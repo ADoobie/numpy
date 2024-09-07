@@ -53,6 +53,8 @@ Call for Contributions
 
 The NumPy project welcomes your expertise and enthusiasm!
 
+I'm happy to be making my first edit!
+
 Small improvements or fixes are always appreciated. If you are considering larger contributions
 to the source code, please contact us through the [mailing
 list](https://mail.python.org/mailman/listinfo/numpy-discussion) first.
